@@ -1,0 +1,30 @@
+---
+title: "About"
+---
+
+# About me
+
+Hello, my name is Lulu Singer! I was born in Baltimore, Maryland, but grew up all over the place. Much to my delight, my education has since brought me back to my hometown. I'm passionate about data analysis, parasites, and accesible science. In my free time, I enjoy crocheting, listening to music (especially live!), and watching MMA.
+
+
+# Research interests
+
+I conducted my master's research in the Mugnier Lab at BSPH, where I studied the antibody response to the antigenically variable Variant Surface Glycoprotein (VSG) in African trypanosomes. During my time in the lab, I really enjoyed being able to combine my interests in neglected tropical diseases, immunology, and bioinformatics. I hope to continue a career applying computational approaches to studying host-parasite interactions, parasite biology, and popultion genomics.  
+
+# Education
+
+- BS Biology, George Mason University, December 2021
+- ScM Molecular Microbiology and Immunology, Bloomberg School of Public Health, May 2024
+- PhD Molecular Microbiology and Immunology, Bloomberg School of Public Health, Current
+
+# Favorites
+
+|Favorite...||
+|:-:|:---:|
+|Animals|Frogs, Snails|
+|Foods|Ice cream, dumplings|
+|Fighters|Zhang Weili, Max Holloway|
+|Movies|The Iron Giant, Lilo and Stitch|
+|TV Shows|Adventure Time, Over the Garden Wall|
+
+

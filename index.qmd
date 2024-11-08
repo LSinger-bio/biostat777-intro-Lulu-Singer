@@ -1,0 +1,13 @@
+---
+title: "biostat777-intro-Lulu-Singer"
+---
+
+# Hello!
+
+My name is Lulu. I am interested in host-parasite interactions, parasite genomics, and everything else sufficiently weird or wiggly. In my free time, I like crocheting, going to concerts, and spending lots of time in Patterson Park.
+
+<img id="pic" src="images/lulu.jpg" style="width:600px">
+
+<button class="btn btn-danger btn-lg" onclick="document.getElementById('pic').src='images/evil_lulu.jpg';document.getElementById('secret_button').style.display='block'">Evil Lulu</button>
+
+<button id="secret_button" class="btn btn-outline-primary btn-lg" onclick="document.getElementById('pic').src='images/lulu.jpg';document.getElementById('secret_button').style.display='none'" style="display:none">AAAAH!</button>

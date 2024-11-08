@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "biostat777-intro-Lulu-Singer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - example_analysis.qmd
+    right:
+      - href: https://www.youtube.com/watch?v=HBxn56l9WcU&t=31s
+        text: "{{< fa frog >}}"
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+    toc_float: true
+    number_sections: true
+
+
+
